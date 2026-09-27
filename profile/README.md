@@ -32,4 +32,4 @@ Every solution is built around how the business already works. Nothing off the s
 
 ### Get in touch
 
-🌐 [humwebs.com](https://humwebs.com) · ✉️ [mykhailo.donets@humwebs.com](mailto:mykhailo.donets@humwebs.com)
+🌐 [humwebs.com](https://humwebs.com) · ✉️ [info@humwebs.com](mailto:info@humwebs.com)
